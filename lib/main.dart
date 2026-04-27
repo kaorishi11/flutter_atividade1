@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Text(
               texto,
-              style: Theme.of(context).textTheme.headlineMedium,
+              style: Theme.of(context).textTheme.headlineSmall,
             ),
             const SizedBox(height: 20),
 
